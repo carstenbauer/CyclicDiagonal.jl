@@ -1,4 +1,5 @@
-# CyclicDiagonal is a Julia package to find approximate factorizations of square matrices M as products of diagonal and circulant matrices in the form M ≈ D1 * C * D2, where D1 and D2 are diagonal matrices and C is a circulant matrix
+# CyclicDiagonal
+CyclicDiagonal is a Julia package to find approximate factorizations of square matrices M as products of diagonal and circulant matrices in the form M ≈ D1 * C * D2, where D1 and D2 are diagonal matrices and C is a circulant matrix
 
 ## Use
 Factorization approximation is implemented in the function iterDCD. You can call it as follows
