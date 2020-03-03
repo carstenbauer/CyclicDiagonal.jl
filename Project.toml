@@ -3,6 +3,10 @@ uuid = "3c95bf44-1f71-41ec-9b96-4c978b968da9"
 authors = ["noponen <60381632+noponen@users.noreply.github.com>"]
 version = "0.1.0"
 
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+SpecialMatrices = "928aab9d-ef52-54ac-8ca1-acd7ca42c160"
+
 [compat]
 julia = "1"
 
